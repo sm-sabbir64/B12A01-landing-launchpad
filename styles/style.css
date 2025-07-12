@@ -112,7 +112,7 @@
   cursor: pointer;
 }
 .btn:hover {
-  background-color: #3b3bcc;
+  background-color: #2788c0;
 }
 
 .action-img {
@@ -262,6 +262,7 @@
   border: none;
   cursor: pointer;
 }
+
 .focus-img img {
   max-width: 840;
   height: 364px;
@@ -335,8 +336,8 @@ textarea {
   cursor: pointer;
 }
 
-.btn:hover {
-  background-color: #3b3bcc;
+.touch-btn:hover {
+  background-color: #2788c0;
 }
 
 /* Footer section */
